@@ -31,6 +31,7 @@ git switch <nama-branch>
 | 5 | **XII PPLG 1 Class Website** | [`prd-website-kelas`](https://github.com/zshnrdtya/archive-prd/tree/prd-website-kelas) | Website resmi kelas & museum memori virtual 3D interaktif angkatan 2024–2027 dengan estetika Neobrutalism. | Next.js 16, React 19, Three.js WebGL, Tailwind CSS |
 | 6 | **DailyLife Task Manager & RESTful API** | [`prd-web-todo-list-api`](https://github.com/zshnrdtya/archive-prd/tree/prd-web-todo-list-api) | Platform manajemen tugas harian & akademik berbasis web dan Headless RESTful API dengan Laravel Sanctum. | Laravel 13, Blade, Tailwind CSS v4, Laravel Sanctum, MySQL |
 | 7 | **Sistem Booking Service Bengkel (3-Role)** | [`prd-booking-service-bengkel`](https://github.com/zshnrdtya/archive-prd/tree/prd-booking-service-bengkel) | Aplikasi web terpadu booking servis kendaraan 3 peran (Pelanggan, Mekanik, Admin) dengan Glassmorphism UI. | Laravel 13, MySQL, Blade, Glassmorphism UI |
+| 8 | **Web Jurnal PKL** | [`prd-web-jurnal-pkl`](https://github.com/zshnrdtya/archive-prd/tree/prd-web-jurnal-pkl) | Sistem informasi pencatatan aktivitas harian siswa/mahasiswa PKL dengan validasi anti-bentrok jam kerja & cetak PDF A4. | Laravel 13, Alpine.js, Tailwind CSS, DomPDF, MySQL |
 
 ---
 
