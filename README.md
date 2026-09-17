@@ -29,6 +29,7 @@ git switch <nama-branch>
 | 3 | **BOA Futsal Arena** | [`prd-web-sport`](https://github.com/zshnrdtya/archive-prd/tree/prd-web-sport) | Platform digital booking arena futsal dan manajemen olahraga terintegrasi dengan WhatsApp Gateway & Sport Type Switcher. | Laravel 12, Blade, Tailwind CSS 3.x, Alpine.js, MySQL, Fonnte API |
 | 4 | **FinanceTrack** | [`prd-website-finance-tracker`](https://github.com/zshnrdtya/archive-prd/tree/prd-website-finance-tracker) | Aplikasi pencatat dan pelacak arus kas keuangan pribadi & keluarga yang cepat, aman, dan visual. | Next.js 16, React 19, TypeScript, Tailwind CSS v4, Supabase |
 | 5 | **XII PPLG 1 Class Website** | [`prd-website-kelas`](https://github.com/zshnrdtya/archive-prd/tree/prd-website-kelas) | Website resmi kelas & museum memori virtual 3D interaktif angkatan 2024–2027 dengan estetika Neobrutalism. | Next.js 16, React 19, Three.js WebGL, Tailwind CSS |
+| 6 | **DailyLife Task Manager & RESTful API** | [`prd-web-todo-list-api`](https://github.com/zshnrdtya/archive-prd/tree/prd-web-todo-list-api) | Platform manajemen tugas harian & akademik berbasis web dan Headless RESTful API dengan Laravel Sanctum. | Laravel 13, Blade, Tailwind CSS v4, Laravel Sanctum, MySQL |
 
 ---
 
